@@ -1,6 +1,4 @@
-# Mostafa Zare
-
-### DevOps Engineer at First Source Arya Solutions LLC
+# Mostafa Zare - DevOps Engineer
 
 ```
 mostafazare@gmail.com
@@ -12,14 +10,16 @@ https://m-zare.github.com
 ### Skills
 
 ```
-DevOps
-Linux System Administration
-Programming
+Hard:
+DevOps - Linux System Administration - Programming - Shell Scripting - Virtualization - Automation - Configuration Management - Containers - Linux - Docker - Python - Bash - VMware ESX - JavaSE - Git - Kubernetes - Ansible
+ 
+- Soft:
+Knowledge Sharing - Problem Solving - Self-directed - Organised - Collaboration - Technology Enthusiastic - Self-improve - Responsible
 ```
 
 ### Summary
 
-Self-improve DevOps Engineer with 7+ years of experience in
+>Self-improve DevOps Engineer with 7+ years of experience in
 both development and operation roles, seeking to use continues
 deployment and delivery skills to reach higher performance. Used a
 combination of tools and technologies such as Kubernetes, Gitlabci, and Ansible to prepare CD/CD pipelines to reduce developers
