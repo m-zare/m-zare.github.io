@@ -1,9 +1,9 @@
 # Mostafa Zare - DevOps Engineer
 
-- mostafazare@gmail.com
-- https://www.linkedin.com/in/m-zare
-- https://m-zare.github.com
-- +98 935 805 2949
+- [mostafazare@gmail.com](mailto:mostafazare@gmail.com)
+- [linkedin.com/in/m-zare](https://www.linkedin.com/in/m-zare)
+- [m-zare.github.com](https://m-zare.github.com)
+- [+98 935 805 2949](tel:+9358052949)
 
 ### Summary
 
