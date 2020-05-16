@@ -3,9 +3,10 @@
 ### DevOps Engineer at First Source Arya Solutions LLC
 
 ```
-Mobile: +98 935 805 2949
-www.linkedin.com/in/m-zare
-m-zare.github.com
+mostafazare@gmail.com
+https://www.linkedin.com/in/m-zare
+https://m-zare.github.com
++98 935 805 2949
 ```
 
 ### Skills
@@ -51,7 +52,7 @@ deploy applications on production.
     - Planned Prometheus, Kibana, and Beats for application and infrastructure monitoring
     - Established Big Data Infrastructure to store files bigger than 100 GB
     - Implemented Gitlab source control
-    - Setup relevant tools such as Sonarqube Code Quality, Maven Local Repository, Docker Local Registry, and Site to Site VPN
+    - Setup relevant tools: Sonarqube Code Quality, Maven Local Repository, Docker Local Registry, and Site to Site VPN
   ```
 
 - **Systems Engineer** - NRDC - Oct. 2015 - May 2019
@@ -89,7 +90,7 @@ deploy applications on production.
   ```
     - Developed GIS application in VB .net
     - Developed Painting Application
-    - R&D on how to use GIS systems
+    - R&D GIS systems
   ```
   
 - **Software Developer** - Telecomunication organization - June 2008 - Apr. 2009
