@@ -1,9 +1,8 @@
 # Mostafa Zare - DevOps Engineer
-
-- [mostafazare@gmail.com](mailto:mostafazare@gmail.com)
-- [linkedin.com/in/m-zare](https://www.linkedin.com/in/m-zare)
-- [m-zare.github.com](https://m-zare.github.com)
-- [+98 935 805 2949](tel:+9358052949)
+[![mostafazare@gmail.com](email.png)](mailto:mostafazare@gmail.com "mostafazare@gmail.com")
+[![linkedin.com/in/m-zare](linkedin.png)](https://www.linkedin.com/in/m-zare)
+ [![m-zare.github.com](github.png)](https://m-zare.github.com)
+ [![+98 935 805 2949](phone.png)](tel:+989358052949 "+989358052949")
 
 ### Summary
 
@@ -96,3 +95,8 @@ deploy applications on production.
 
 - Persian (Native or Bilingual)
 - English (Full Professional)
+
+[![mostafazare@gmail.com](email.png) mostafazare@gmail.com](mailto:mostafazare@gmail.com "mostafazare@gmail.com")
+[![linkedin.com/in/m-zare](linkedin.png) linkedin.com/in/m-zare](https://www.linkedin.com/in/m-zare)
+[![m-zare.github.com](github.png) m-zare.github.com](https://m-zare.github.com)
+[![+98 935 805 2949](phone.png) +98 935 805 2949](tel:+989358052949 "+989358052949")
