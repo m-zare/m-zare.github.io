@@ -8,7 +8,7 @@ www.linkedin.com/in/m-zare
 m-zare.github.com
 ```
 
-Top Skills
+### Skills
 
 ```
 DevOps
@@ -29,9 +29,7 @@ deploy applications on production.
 
 ### Experience
 
-- **DevOps Engineer**- First Source Arya Solutions LLC
-
-    December 2019 - Present
+- **DevOps Engineer** - First Source Arya Solutions LLC - Dec. 2019 - Present
 
     Tehran, Iran
     
@@ -42,9 +40,7 @@ deploy applications on production.
     - Develop Staging environment IaC on AWS using Terraform, Packer, and Chef
   ```
     
-- **DevOps Engineer**- PDN Co
-
-    May 2019 - December 2019 (8 months)
+- **DevOps Engineer** - PDN Co - May 2019 - Dec. 2019
 
     Tehran, Iran
 
@@ -58,9 +54,7 @@ deploy applications on production.
     - Setup relevant tools such as Sonarqube Code Quality, Maven Local Repository, Docker Local Registry, and Site to Site VPN
   ```
 
-- **Systems Engineer**- NRDC
-
-  October 2015 - May 2019 (3 years 8 months)
+- **Systems Engineer** - NRDC - Oct. 2015 - May 2019
 
   Tehran, Iran
 
@@ -71,9 +65,7 @@ deploy applications on production.
     - Backed up of more than 3 TB of data
   ```
 
-- **IT Engineer**- Loole Gostar Industrial Group
-
-  January 2013 - September 2015 (2 years 9 months)
+- **IT Engineer** - Loole Gostar Industrial Group - Jan. 2013 - Sept. 2015
 
   Golpayegan, Iran
 
@@ -86,15 +78,11 @@ deploy applications on production.
     - Configured and ran Elastix (VoIP) servers for 30 concurrent calls
   ```
   
-- Soldier- Military Service
-  
-  August 2011 - September 2012 (1 year 2 months)
+- Soldier - Military Service - Aug. 2011 - Sept. 2012
 
   Golpayegan, Iran
 
-- **Software Developer**- Nosaz Mohaseb Safahan
-  
-  August 2009 - December 2010 (1 year 5 months)
+- **Software Developer** - Nosaz Mohaseb Safahan - Aug. 2009 - Dec. 2010
   
   Esfahan, Iran
 
@@ -104,9 +92,7 @@ deploy applications on production.
     - R&D on how to use GIS systems
   ```
   
-- **Software Developer**- Telecomunication organization
-
-  June 2008 - April 2009 (11 months)
+- **Software Developer** - Telecomunication organization - June 2008 - Apr. 2009
 
   Golpayegan, Iran
 
@@ -116,57 +102,27 @@ deploy applications on production.
 
 ### Education
 
-- **Computer Software Engineering**- Islamic Azad University
+- **Computer Software Engineering** - Islamic Azad University - 2006 - 2010
 
-  Bachelor's degree, (2006 - 2010)
+  Bachelor's degree
 
 ### Licenses & Certifications
 
-- **DevOps Engineer- Docker**- Fanavaran Anisa
+- **DevOps Engineer - Docker** - Fanavaran Anisa - Aug. 2018 - Credential ID: 2018-2806
+
+- **Automation with Ansible** - Fanavaran Anisa - June 2018 - Credential ID: 2018-2708
+
+- **Python and Django Full Stack Web Developer Bootcamp** - Udemy - May 2018 - [Credential ID: UC-0XG03L3B](https://www.udemy.com/certificate/UC-0XG03L3B/)
+
+- **Introduction to Kubernetes** - edX - Jan. 2018
   
-  Aug 2018
-  
-  Credential ID: 2018-2806
+- **Introduction to programming using Python** - Arjang - Dec. 2017 - [Credential ID: cectthsqksyvy6q8k24a](https://gotoclass.ir/certificates/cectthsqksyvy6q8k24a/)
 
-- **Automation with Ansible**- Fanavaran Anisa
+- **Java SE Developer** - Laitec - Jan. 2017 - [Credential ID: 7833](https://laitec.ir/certification-verification/show/WKaKZYzeyL)
 
-  Jun 2018
-  
-  Credential ID: 2018-2708
+- **Penetration Test** - Web Amooz - July 2014 - Credential ID: 10403
 
-- **Python and Django Full Stack Web Developer Bootcamp**- Udemy
-
-  Issued May 2018- No Expiration Date
-  
-  [Credential ID: UC-0XG03L3B](https://www.udemy.com/certificate/UC-0XG03L3B/)
-
-- **Introduction to Kubernetes**- edX
-    
-  Jan 2018
-  
-- **Introduction to programming using Python**- Arjang
-
-  Dec 2017
-  
-  [Credential ID: cectthsqksyvy6q8k24a](https://gotoclass.ir/certificates/cectthsqksyvy6q8k24a/)
-
-- **Java SE Developer**- Laitec
-
-  Jan 2017
-
-  [Credential ID: 7833](https://laitec.ir/certification-verification/show/WKaKZYzeyL)
-
-- **Penetration Test**- Web Amooz
-  
-  Jul 2014
-
-  Credential ID: 10403
-
-- **LPIC-1**- Matlab
-
-  May 2013
-  
-  Credential ID: 95245687546517
+- **LPIC-1** - Matlab - May 2013 - Credential ID: 95245687546517
   
 ### Languages
 
