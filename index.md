@@ -1,16 +1,11 @@
 # Mostafa Zare
 
-## DevOps Engineer at First Source Arya Solutions LLC
-
-Contact
+### DevOps Engineer at First Source Arya Solutions LLC
 
 ```
-+98 935 805 2949 (Mobile)
-mostafazare@gmail.com
+Mobile: +98 935 805 2949
 www.linkedin.com/in/m-zare
-(LinkedIn)
-github.com (Other)
-visualcv.com (Other)
+m-zare.github.com
 ```
 
 Top Skills
@@ -19,24 +14,6 @@ Top Skills
 DevOps
 Linux System Administration
 Programming
-```
-
-Languages
-
-```
-Persian (Native or Bilingual)
-English (Full Professional)
-```
-
-Certifications
-
-```
-Introduction to Kubernetes
-Automation with Ansible
-DevOps Engineer- Docker
-Java SE Developer
-Python and Django Full Stack Web
-Developer Bootcamp
 ```
 
 ### Summary
@@ -156,3 +133,67 @@ deploy applications on production.
 - Islamic Azad University
 
   Bachelor's degree, Computer Software Engineering · (2006 - 2010)
+  
+### Certifications
+
+- Introduction to Kubernetes
+- Automation with Ansible
+- DevOps Engineer- Docker
+- Java SE Developer
+- Python and Django Full Stack Web
+- Developer Bootcamp
+
+### Licenses & Certifications
+
+- DevOps Engineer- Docker
+  
+  Aug 2018
+  
+  Fanavaran Anisa- Credential ID 2018-2806
+
+- Automation with Ansible
+
+  Jun 2018
+  
+  Fanavaran Anisa- Credential ID 2018-2708
+
+- Python and Django Full Stack Web Developer Bootcamp
+
+  Issued May 2018- No Expiration Date
+  
+  Udemy- [Credential ID UC-0XG03L3B](https://www.udemy.com/certificate/UC-0XG03L3B/)
+
+- Introduction to Kubernetes
+    
+  Jan 2018
+    
+  edX
+  
+- Introduction to programming using Python
+
+  Dec 2017
+  
+  Arjang Higher Education Institute(Remis Advanced Training Center)- [Credential ID cectthsqksyvy6q8k24a](https://gotoclass.ir/certificates/cectthsqksyvy6q8k24a/)
+
+- Java SE Developer
+
+  Jan 2017
+
+  Laitec- [Credential ID 7833](https://laitec.ir/certification-verification/show/WKaKZYzeyL)
+
+- Penetration Test
+  
+  Jul 2014
+
+  Web Amooz- Credential ID 10403
+
+- LPIC-1
+
+  May 2013
+  
+  Matlab- Credential ID 95245687546517
+  
+### Languages
+
+- Persian (Native or Bilingual)
+- English (Full Professional)
